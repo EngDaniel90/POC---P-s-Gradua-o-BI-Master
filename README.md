@@ -1,4 +1,4 @@
-#Integração de dados para planejamento e tomada de decisão de custos de engenharia
+# Integração de dados para planejamento e tomada de decisão de custos de engenharia
 
 #### Aluno: [Daniel Alves Anversi](https://github.com/EngDaniel90)
 #### Orientadora: [Anderson Nascimento](https://github.com/insightds)
@@ -7,11 +7,10 @@
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-<!-- para os links a seguir, caso os arquivos estejam no mesmo repositório que este README, não há necessidade de incluir o link completo: basta incluir o nome do arquivo, com extensão, que o GitHub completa o link corretamente -->
 
-- [Link para o Artigo](Artigo Integração de dados para planejamento e tomada de decisão de custos de engenharia.doc).
-- [Link para o Relatório](Power Bi Geral.pbix).
-- [Link para os arquivos do trabalho] (Trabalho de conclusão de curso Pós Master BI.zip).
+- [Link para o Artigo](https://github.com/EngDaniel90/POC---P-s-Gradua-o-BI-Master/blob/main/Artigo%20Integra%C3%A7%C3%A3o%20de%20dados%20para%20planejamento%20e%20tomada%20de%20decis%C3%A3o%20de%20custos%20de%20engenharia.doc).
+- [Link para o Relatório](https://github.com/EngDaniel90/POC---P-s-Gradua-o-BI-Master/blob/main/Power%20Bi%20Geral.pbix).
+- [Link para os arquivos do trabalho](https://github.com/EngDaniel90/POC---P-s-Gradua-o-BI-Master/blob/main/Trabalho%20de%20conclus%C3%A3o%20de%20curso%20P%C3%B3s%20Master%20BI.zip).
 
 
 ---
