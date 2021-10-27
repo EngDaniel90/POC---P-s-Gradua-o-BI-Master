@@ -1,7 +1,7 @@
 # Integração de dados para planejamento e tomada de decisão de custos de engenharia
 
 #### Aluno: [Daniel Alves Anversi](https://github.com/EngDaniel90)
-#### Orientadora: [Anderson Nascimento](https://github.com/insightds)
+#### Orientador: [Anderson Nascimento](https://github.com/insightds)
 
 ---
 
